@@ -1,0 +1,4 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:Label tabindex="-1" text="&lt;IP&gt;" parse-escape-sequences="true" display-tooltip-when-elided="true" name="TheIP" style="font-size: 20px;" />
+    <ui:Label tabindex="-1" text="ich warte ..." parse-escape-sequences="true" display-tooltip-when-elided="true" name="TheData" />
+</ui:UXML>
